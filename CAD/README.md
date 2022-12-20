@@ -1,2 +1,6 @@
 # PRNT_HUB
-HUB for communication of the main elements of the 3D printer: x and y terminals, print head for bowden or direct, as well as there is a possibility to easily connect accelerometers ADXL345 and LIS3DH.
+<p align="center">
+  <a>
+    <img src="![HUB_model_case](https://user-images.githubusercontent.com/58523656/208553508-b7a29d63-dcd6-407b-87e8-6f58a29055d4.png)"
+  </a>
+</p>
