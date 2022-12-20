@@ -1,4 +1,3 @@
-# PRNT_HUB
 <p align="center">
   <h1 align="center">Print case for HUB</h1>
   <a>
