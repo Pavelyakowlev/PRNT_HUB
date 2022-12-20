@@ -3,6 +3,8 @@ HUB for communication of the main elements of the 3D printer: x and y terminals,
 
 <p align="center">
   <a>
-    <img src="https://user-images.githubusercontent.com/58523656/208657216-4b084c90-80a5-49bf-a4b6-08ef48557593.png"
+    <img src="https://user-images.githubusercontent.com/58523656/208696708-14bc3f7a-e6d7-41fb-aa50-7fa3dfeab4ed.png"
   </a>
 </p>
+
+
